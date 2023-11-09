@@ -1,0 +1,6 @@
+Check New0
+Generation: 17
+Weight 0 b_x:0 b_y:1 p_y:-1 v_x:1 b_y:1
+Weight 1 b_x:0 b_y:-1 p_y:1 v_x:0 b_y:1
+Weight 2 b_x:0 b_y:-1 p_y:0 v_x:-1 b_y:1
+Weight for hiddent layer x:-1 y:0 z:0
